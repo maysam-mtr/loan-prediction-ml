@@ -1,5 +1,5 @@
-# Loan Prediction using Machine Learning
-Loan Prediction using machine learning
+# Loan Approval Prediction using Machine Learning
+Loan Approval Prediction using Logistic Regression and Random Forest Classifier
 
 # Objective
 In this project, we aim to train a model that can predict loan approval for individuals of different backgrounds based on its key features, including the person’s income, home ownership kind , loan amount, e.t.c… By leveraging machine learning techniques, we can uncover insights and patterns in the data to build an accurate predictive model.
