@@ -10,17 +10,31 @@ This dataset is a synthetic version inspired by the original Credit Risk dataset
 
 # Dataset Info
 Length: 10,062 records
+
 👤 person_age:	Applicant's age	(Float)
+
 🚻 person_gender:	Applicant's gender	(Categorical)
+
 🎓 person_education:	Applicant's highest level of education	(Categorical)
+
 💰 person_income:	Applicant's annual income in currency	(Float)
+
 📅 person_emp_exp:	Years of employment experience	(Integer)
+
 🏠 person_home_ownership:	Home ownership status (e.g., rent, own, mortgage)	(Categorical)
+
 🏦 loan_amnt:	Amount of loan requested	Float
+
 🎯 loan_intent:	Intended purpose of the loan (e.g., personal, education)	(Categorical)
+
 📈 loan_int_rate:	Interest rate applicable to the loan	(Float)
+
 📊 loan_percent_income:	Loan amount as a percentage of annual income	(Float)
+
 🕰️ cb_person_cred_hist_length:	Number of years of credit history	(Float)
+
 💳 credit_score:	Applicant's credit score	(Integer)
+
 ❗ previous_loan_defaults_on_file:	Indicator of previous loan defaults (Yes/No)	(Categorical)
+
 ✅ loan_status:	Loan status outcome (1 = approved, 0 = rejected)	(Integer)
